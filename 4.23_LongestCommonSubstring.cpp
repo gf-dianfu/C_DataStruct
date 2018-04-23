@@ -40,7 +40,7 @@ int main()
 		}
 	}
 //	for( int i=0; i<=len1; i++ ) {		//状态矩阵 
-//		for( int j=0; j<len2; j++ )	
+//		for( int j=0; j<=len2; j++ )	
 //			printf("%d ", maxLen[i][j]);
 //		printf("\n");
 //	}
