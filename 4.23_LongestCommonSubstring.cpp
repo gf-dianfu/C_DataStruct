@@ -8,7 +8,6 @@
 maxLen[i][j] 表示 此位置的最长的长度 , 
 若str1[i] == str2[j] 则 maxLen[i][j] = maxLen[i-1][j-1] + 1; 
 */ 
-int max( int a, int b );		//求较大值 
 
 int main()
 {
